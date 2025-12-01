@@ -13,7 +13,7 @@ Got data from kaggle , and created flight data 2024 dashboard using excel.
 Investigated Mango db  using filters , joins, functions etc.. and use them in my tasks
 
 ## Python
-installed python and run it in my local.
+installed python  and run it in my local.
  
 
 
